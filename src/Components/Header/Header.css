@@ -1,0 +1,17 @@
+.header{
+    background-color: black;
+}
+.header img{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 150px;
+    padding: 10px 10px 0px 10px;
+    margin-bottom: 0;
+}
+.header p{
+    text-align: center;
+    color: white;
+    margin-top: 0;
+    padding: 0px 10px 10px 10px;
+}
